@@ -1,0 +1,21 @@
+{
+  "name": "training1",
+  "version": "1.0.0",
+  "description": "untuk training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "afiq",
+  "license": "ISC",
+  "dependencies": {
+    "easy-ftp": "^0.4.2",
+    "express": "^4.17.1",
+    "fetch": "^1.1.0",
+    "mssql": "^7.2.1",
+    "node-fetch": "^2.6.6",
+    "nodemon": "^2.0.15",
+    "request": "^2.65.0",
+    "set-interval-async": "^2.0.3"
+  }
+}
